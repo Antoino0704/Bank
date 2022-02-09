@@ -1,6 +1,9 @@
 # Bank
 this software allow you of create a multi bank account and you can deposit or withdraw in your balance, it create also a "database" where save all bank account that you create
 
+
+in "Library" diretctory there are all custom class used
+
 # Installation
 open file main.jar and execute
 
