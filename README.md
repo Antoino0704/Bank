@@ -6,7 +6,9 @@ open file main.jar and execute
 
 # Guide
 click on "create account" button, compiler in text fields, click "complete login" button
+
 after click "login" button and you do login
+
 execute all possibily operation
 
 # Authors
