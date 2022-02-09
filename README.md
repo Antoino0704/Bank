@@ -1,7 +1,7 @@
 # Bank
 this software allow you of create a multi bank account and you can deposit or withdraw in your balance, it create also a "database" where save all bank account that you create
 
-
+# Library
 in "Library" diretctory there are all custom class used
 
 in "doc" directory also there are a doc.zip, download and extract, open "index.html" file and read carefully for the correct used
