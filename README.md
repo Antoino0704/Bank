@@ -4,6 +4,8 @@ this software allow you of create a multi bank account and you can deposit or wi
 
 in "Library" diretctory there are all custom class used
 
+in "doc" directory also there are a doc.zip, download and extract, open "index.html" file and read carefully for the correct used
+
 # Installation
 open file main.jar and execute
 
