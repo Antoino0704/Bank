@@ -13,3 +13,4 @@ execute all possibily operation
 Buscarino Antonino
 
 # License
+ GPL-3.0 License
